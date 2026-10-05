@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Mohammed Saad
- I’m currently working on building web applications<br>I'm looking to collaborate on web development and software projects<br> I’m looking for help with scaling applications and improving UI/UX design<br> I’m currently learning advanced JavaScript and cloud deployment<br> Ask me about website development, and GitHub<br> I love turning ideas into real-world applications that help businesses grow 
+ I’m currently working on building web applications & Cloud Computing<br>I'm looking to collaborate on web development and software projects<br> I’m looking for help with scaling applications and improving UI/UX design<br> I’m currently learning advanced JavaScript and cloud deployment<br> Ask me about website development, and GitHub<br> I love turning ideas into real-world applications that help businesses grow 
 
 
 ## 🌐 Socials:
